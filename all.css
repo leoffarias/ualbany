@@ -1,3 +1,4 @@
+
 body {
 	margin: 0;
 	padding: 0;
@@ -861,3 +862,22 @@ ul.bottomspace li {
 	background:#D2D2D2;
 	width:210px;
 }
+/*
+@media (max-width: 1024px) {
+.main-gallery {
+	display:none;
+}
+
+#wrapper {
+	margin: 0;
+	max-width:800px;
+}
+
+.aside {
+	display: none;
+}
+
+/*.box {
+	display:none;
+}
+}*/
